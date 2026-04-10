@@ -1,4 +1,0 @@
-# This project relies solely on Python Standard Library built-in modules.
-# No external dependencies are currently required to run the simulation.
-# 
-# Developed with Python 3.7+
